@@ -21,7 +21,7 @@ The dataset used in this project is from a telecom customer churn dataset. It in
 
 File Details:
 Customer_Retention_Analysis.pbix: Power BI file containing the dashboard and visualizations.
-Screenshot_1.png: A screenshot of the dashboard for preview.
+dashboard.png: A screenshot of the dashboard for preview.
 How to Use:
 Download Power BI Desktop: Install Power BI Desktop if you don’t have it already.
 Open the .pbix file: Open the Customer_Retention_Analysis.pbix file in Power BI Desktop.
