@@ -4,8 +4,8 @@ This project involves the creation of an interactive Power BI dashboard to analy
 
 ## Key Features:
 - Dynamic Visuals: Interactive charts and graphs that allow users to explore data by different segments like contract type, payment method, and customer demographics.
-- Item 2 Data Grouping: Data was grouped into meaningful categories for better analysis (e.g., Monthly Charges and Tenure).
-- Item 3 Conditional Formatting: Applied red and green colors to represent high churn and low churn values for easy interpretation.
+- Data Grouping: Data was grouped into meaningful categories for better analysis (e.g., Monthly Charges and Tenure).
+- Conditional Formatting: Applied red and green colors to represent high churn and low churn values for easy interpretation.
 - Tooltips: Enhanced user experience by adding detailed tooltips that provide additional insights when hovering over data points.
   
 ## Metrics and Visuals:
