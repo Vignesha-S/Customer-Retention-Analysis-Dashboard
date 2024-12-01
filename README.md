@@ -1,11 +1,11 @@
 # Customer-Retention-Analysis-Dashboard
-Overview:
+## Overview:
 This project involves the creation of an interactive Power BI dashboard to analyze customer retention and churn for a telecom company. The dashboard visualizes key metrics such as Churn Rate, Monthly Charges, Tenure, and Churn by Contract Type, helping to identify the factors influencing customer behavior and retention.
 
-Key Features:
-Dynamic Visuals: Interactive charts and graphs that allow users to explore data by different segments like contract type, payment method, and customer demographics.
-Data Grouping: Data was grouped into meaningful categories for better analysis (e.g., Monthly Charges and Tenure).
-Conditional Formatting: Applied red and green colors to represent high churn and low churn values for easy interpretation.
+## Key Features:
+- Item 1 Dynamic Visuals: Interactive charts and graphs that allow users to explore data by different segments like contract type, payment method, and customer demographics.
+- Item 2 Data Grouping: Data was grouped into meaningful categories for better analysis (e.g., Monthly Charges and Tenure).
+- Item 3 Conditional Formatting: Applied red and green colors to represent high churn and low churn values for easy interpretation.
 Tooltips: Enhanced user experience by adding detailed tooltips that provide additional insights when hovering over data points.
 Metrics and Visuals:
 Churn Rate by Monthly Charges: Analyzes churn in relation to the monthly charges for customers.
@@ -19,7 +19,7 @@ Data Analysis: Involves cleaning, transforming, and visualizing customer data to
 Data:
 The dataset used in this project is from a telecom customer churn dataset. It includes details like customer demographics, account information, monthly charges, and whether the customer has churned or not.
 
-File Details:
+## File Details:
 Customer_Retention_Analysis.pbix: Power BI file containing the dashboard and visualizations.
 dashboard.png: A screenshot of the dashboard for preview.
 How to Use:
